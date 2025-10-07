@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://discord.com/users/1181996575770292354">
+    <img src="https://lanyard.cnrad.dev/api/1181996575770292354" alt="Discord Presence">
+  </a>
+</div>
+
 ### Hi!👋
 
 I'm hyzh, a self-taught programmer.
