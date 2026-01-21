@@ -4,6 +4,8 @@
   </a>
 </div>
 
+[![hyzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1hyzh)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi!👋
 
 I'm hyzh, a self-taught programmer.
