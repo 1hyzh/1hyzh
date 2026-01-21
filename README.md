@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://discord.com/users/1181996575770292354">
-    <img src="https://lanyard.cnrad.dev/api/1181996575770292354" alt="Discord Presence">
-  </a>
-</div>
-
-[![hyzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1hyzh)](https://github.com/anuraghazra/github-readme-stats)
+[![hyzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1hyzh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi!👋
 
